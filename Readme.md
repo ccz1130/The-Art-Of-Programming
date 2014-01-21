@@ -1,7 +1,7 @@
 #说明
 该版本是piaoxu用于学习、修改的版本，不用于其他任何用途。  
 原版请从原作者的repo中[fork](https://github.com/julycoding/The-Art-Of-Programming-by-July)  
-2014.01.21
+2014.01.22
 
 # About
 The 'Art Of Programming' project is a result of a well-known Chinese blog focuses on classic programming problems. Ever since October 2010, the blog receives over 5.5 million unique visits with an incredible amount of positive feedbacks. Due to its popularity, the author (July) can no longer keep up with growing number of question and decided to branch out and open source this project so that everyone contribute.
